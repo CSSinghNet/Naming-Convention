@@ -1,6 +1,6 @@
 # Naming-convention
 
-[Naming convention][99] is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
+Naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
 
 Reasons for using a naming convention (as opposed to allowing programmers to choose any character sequence) include the following:
  - To reduce the effort needed to read and understand source code;
